@@ -1,0 +1,83 @@
+<mxfile host="65bd71144e">
+    <diagram id="vQ1ZWWMigW_gayYLPpft" name="Page-1">
+        <mxGraphModel dx="821" dy="747" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Fin" vertex="1">
+                    <mxGeometry height="60" width="120" x="165" y="800" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" edge="1" parent="1" source="3" style="edgeStyle=none;html=1;" target="8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Inicio" vertex="1">
+                    <mxGeometry height="50" width="120" x="165" y="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" edge="1" parent="1" source="4" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Se hace pregunta" vertex="1">
+                    <mxGeometry height="80" width="80" x="185" y="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" edge="1" parent="1" source="5" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="6">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="340" y="500"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="15" edge="1" parent="1" source="5" style="edgeStyle=none;html=1;" target="9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Respuesta Correcta" vertex="1">
+                    <mxGeometry height="80" width="80" x="185" y="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="No añadir puntos" vertex="1">
+                    <mxGeometry height="80" width="80" x="300" y="540" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" edge="1" parent="1" source="8" style="edgeStyle=none;html=1;" target="4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Verificar la cantidad de puntos y elegir un &quot;nivel de pregunta segun estos" vertex="1">
+                    <mxGeometry height="110" width="110" x="170" y="230" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" edge="1" parent="1" source="9" style="edgeStyle=none;html=1;" target="10">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Añadir puntos" vertex="1">
+                    <mxGeometry height="80" width="80" x="185" y="560" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" edge="1" parent="1" source="10" style="edgeStyle=none;html=1;" target="2">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" edge="1" parent="1" source="10" style="edgeStyle=none;html=1;">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="80" y="710"/>
+                            <mxPoint x="80" y="220"/>
+                        </Array>
+                        <mxPoint x="225" y="220" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="10" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Continuar" vertex="1">
+                    <mxGeometry height="80" width="80" x="185" y="670" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="No" vertex="1">
+                    <mxGeometry height="30" width="60" x="240" y="760" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="No" vertex="1">
+                    <mxGeometry height="30" width="60" x="280" y="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Si" vertex="1">
+                    <mxGeometry height="30" width="60" x="225" y="530" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Si" vertex="1">
+                    <mxGeometry height="30" width="60" x="105" y="680" as="geometry"/>
+                </mxCell>
+                <mxCell id="Sjw_EXAWm8pomg2UhYDT-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Diagrama Aplicacion para estudiar matematicas&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="90" width="235" x="265" y="50" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

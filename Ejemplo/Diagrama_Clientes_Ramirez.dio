@@ -1,0 +1,34 @@
+<mxfile host="65bd71144e">
+    <diagram id="qn6OfT-3ZwDZo7OyN2Hc" name="Page-1">
+        <mxGraphModel dx="683" dy="714" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="Ykib85Khl3_PVMTNG9zZ-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Diagrama de como obtener clientes&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="30" width="270" x="200" y="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ykib85Khl3_PVMTNG9zZ-6" edge="1" parent="1" source="Ykib85Khl3_PVMTNG9zZ-2" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Ykib85Khl3_PVMTNG9zZ-3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ykib85Khl3_PVMTNG9zZ-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Inicio" vertex="1">
+                    <mxGeometry height="60" width="120" x="320" y="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ykib85Khl3_PVMTNG9zZ-7" edge="1" parent="1" source="Ykib85Khl3_PVMTNG9zZ-3" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Ykib85Khl3_PVMTNG9zZ-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ykib85Khl3_PVMTNG9zZ-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Grabar videos usando la aplicacion" vertex="1">
+                    <mxGeometry height="60" width="120" x="320" y="260" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ykib85Khl3_PVMTNG9zZ-8" edge="1" parent="1" source="Ykib85Khl3_PVMTNG9zZ-4" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Ykib85Khl3_PVMTNG9zZ-5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ykib85Khl3_PVMTNG9zZ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Publicitar la aplicacion en redes sociales" vertex="1">
+                    <mxGeometry height="60" width="120" x="320" y="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="Ykib85Khl3_PVMTNG9zZ-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fin" vertex="1">
+                    <mxGeometry height="60" width="120" x="320" y="480" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

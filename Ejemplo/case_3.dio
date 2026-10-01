@@ -1,0 +1,55 @@
+<mxfile host="65bd71144e">
+    <diagram id="N6sANx2CIO1qyvRFiWcG" name="Page-1">
+        <mxGraphModel dx="683" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="CKe6i7I5V_3qBb8jVHV5-12" edge="1" parent="1" source="CKe6i7I5V_3qBb8jVHV5-1" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="CKe6i7I5V_3qBb8jVHV5-8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="CKe6i7I5V_3qBb8jVHV5-13" edge="1" parent="1" source="CKe6i7I5V_3qBb8jVHV5-1" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="CKe6i7I5V_3qBb8jVHV5-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="CKe6i7I5V_3qBb8jVHV5-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Usuario" vertex="1">
+                    <mxGeometry height="60" width="30" x="160" y="290" as="geometry"/>
+                </mxCell>
+                <mxCell id="CKe6i7I5V_3qBb8jVHV5-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Diagrama de casos de uso de monetizacion" vertex="1">
+                    <mxGeometry height="30" width="170" x="280" y="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="CKe6i7I5V_3qBb8jVHV5-11" edge="1" parent="1" source="CKe6i7I5V_3qBb8jVHV5-3" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="CKe6i7I5V_3qBb8jVHV5-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="CKe6i7I5V_3qBb8jVHV5-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Anunciante" vertex="1">
+                    <mxGeometry height="60" width="30" x="180" y="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="CKe6i7I5V_3qBb8jVHV5-10" edge="1" parent="1" source="CKe6i7I5V_3qBb8jVHV5-4" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="CKe6i7I5V_3qBb8jVHV5-5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="CKe6i7I5V_3qBb8jVHV5-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Progrmador" vertex="1">
+                    <mxGeometry height="60" width="30" x="470" y="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="CKe6i7I5V_3qBb8jVHV5-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Verificar el funcionamiento de la base de datos" vertex="1">
+                    <mxGeometry height="80" width="120" x="280" y="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="CKe6i7I5V_3qBb8jVHV5-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Anunciar aplicaciones" vertex="1">
+                    <mxGeometry height="80" width="120" x="280" y="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="CKe6i7I5V_3qBb8jVHV5-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Autorizar pagos" vertex="1">
+                    <mxGeometry height="80" width="120" x="280" y="450" as="geometry"/>
+                </mxCell>
+                <mxCell id="CKe6i7I5V_3qBb8jVHV5-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Mirar anuncios" vertex="1">
+                    <mxGeometry height="80" width="120" x="280" y="270" as="geometry"/>
+                </mxCell>
+                <mxCell id="CKe6i7I5V_3qBb8jVHV5-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Pagar membresia" vertex="1">
+                    <mxGeometry height="80" width="120" x="280" y="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="CKe6i7I5V_3qBb8jVHV5-15" edge="1" parent="1" source="CKe6i7I5V_3qBb8jVHV5-14" style="edgeStyle=none;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="CKe6i7I5V_3qBb8jVHV5-7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="CKe6i7I5V_3qBb8jVHV5-14" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Api banco" vertex="1">
+                    <mxGeometry height="60" width="30" x="460" y="290" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

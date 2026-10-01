@@ -1,0 +1,64 @@
+<mxfile host="65bd71144e">
+    <diagram id="rnUUey0mZuySdWLCDXrX" name="Page-1">
+        <mxGraphModel dx="1671" dy="1847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="14" edge="1" parent="1" source="8" style="edgeStyle=none;html=1;" target="9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Presentar extraordinario de calculo" vertex="1">
+                    <mxGeometry height="170" width="170" x="45" y="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" edge="1" parent="1" source="9" style="edgeStyle=none;html=1;" target="12">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" edge="1" parent="1" source="9" style="edgeStyle=none;html=1;" target="17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="&amp;gt;70" vertex="1">
+                    <mxGeometry height="80" width="80" x="90" y="350" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" edge="1" parent="1" source="11" style="edgeStyle=none;html=1;" target="8">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="INICIO" vertex="1">
+                    <mxGeometry height="60" width="260" y="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="FIN" vertex="1">
+                    <mxGeometry height="60" width="230" x="250" y="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" edge="1" parent="1" source="17" style="edgeStyle=none;html=1;">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points">
+                            <mxPoint x="130" y="570"/>
+                            <mxPoint x="10" y="570"/>
+                            <mxPoint x="10" y="90"/>
+                        </Array>
+                        <mxPoint x="130" y="90" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="17" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Consejo" vertex="1">
+                    <mxGeometry height="80" width="80" x="90" y="460" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="Si" vertex="1">
+                    <mxGeometry height="30" width="60" x="170" y="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="No" vertex="1">
+                    <mxGeometry height="30" width="60" x="120" y="430" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;DIAGRAMA DE FLUJO PARA UN ALUMNO QE PRESENTA EXTRAORDINARIO&lt;/font&gt;" vertex="1">
+                    <mxGeometry height="170" width="440" x="-90" y="-150" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="pmAPQ_AVQshpAUXpUHK8" name="Page-2">
+        <mxGraphModel dx="616" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="rVQdtpQp0bIY1w_5kysK-0"/>
+                <mxCell id="rVQdtpQp0bIY1w_5kysK-1" parent="rVQdtpQp0bIY1w_5kysK-0"/>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
